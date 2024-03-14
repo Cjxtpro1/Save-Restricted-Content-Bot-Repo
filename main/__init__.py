@@ -15,12 +15,12 @@ logging.getLogger("telethon").setLevel(logging.WARNING)
 
 
 # variables
-API_ID = config("API_ID", default=None, cast=int)
-API_HASH = config("API_HASH", default=None)
-BOT_TOKEN = config("BOT_TOKEN", default=None)
-SESSION = config("SESSION", default=None)
-FORCESUB = config("FORCESUB", default=None)
-AUTH = config("AUTH", default=None)
+API_ID = 22789024
+API_HASH = "05dd73c56053828044cb71216cdfd0cc"
+BOT_TOKEN = "6548950876:AAHNOrnrodvniHVpKB9rfbQrB-0bhX4eOkQ"
+SESSION = "BQFbu6AABc1jBy4qdVDpfpZfIs9aKxiNDrgfVxUBKLpKPUofpF9oO7oND_cAICzL26UGSdZtw8TuPIcectjEKp40ygWYJpex4WA0PnIGyb9UsZIfHgCsb4Y0VkPhvuCTltGGetgJgkQBm1j-uwuW8BULdvohRWPDQnaliq6lFTxRXVSW-i9h7oAJeSdSC7mBSm5RWQfKMjz1P-ySV_sDakJWPOlwTNf06ICQSiphoWZuf7wr_FlJeNYYUDHWdvc1nx9IhGhdJsMiV7DLyZE2JXyu9OwHfiCkBki8iF857P0FVJCDPdHHZfo238NDdGRMFCTFUi9j9ausFrjxzOUYstP6B8o6_QAAAAGU1X5bAA"
+FORCESUB = "bottgod"
+AUTH = "6791986779"
 SUDO_USERS = []
 
 if len(AUTH) != 0:
