@@ -15,10 +15,10 @@ logging.getLogger("telethon").setLevel(logging.WARNING)
 
 
 # variables
-API_ID = 22789024
-API_HASH = "05dd73c56053828044cb71216cdfd0cc"
-BOT_TOKEN = "6548950876:AAH5kZenTHxuVfNmkhOr4Em0q3SomQK2LmQ"
-SESSION = "BQAwMGlgss4vvyVDewEl0CfmlfNbNsz3duhHS6lJySs-ShKbiJhVAYfcbtyaXlIrajcQS6nHzCPOBtEpmFcwz1-daU6MsDRM5Mby75d2vd193RnspbZCgz1huj-Grddh18l9uNg7WUT8gWFY5iQ3D5ghvRtbgEflfC0vpE7qlOinxnYESlqGBXoyjt1HKdz3aXY-VGdMCI6bLFgk6vNcMgABSQY9D--8ck6vF5KqAShpABlvlYudRZpm5dV5E-Bq2DQbOflE_q3eYqYIvRgUQf8vYhrof8OgxsfnVY8gfbueE82FA8IyRewB2Y2dNSST6O04tEQN05ydT6hN2WSER3ZuAAAAAZTVflsA"
+API_ID = 
+API_HASH = ""
+BOT_TOKEN = ""
+SESSION = ""
 FORCESUB = "bottuse"
 AUTH = "6791986779"
 SUDO_USERS = []
