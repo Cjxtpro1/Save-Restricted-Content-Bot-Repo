@@ -19,8 +19,8 @@ API_ID =
 API_HASH = ""
 BOT_TOKEN = ""
 SESSION = ""
-FORCESUB = "bottuse"
-AUTH = "6791986779"
+FORCESUB = ""
+AUTH = ""
 SUDO_USERS = []
 
 if len(AUTH) != 0:
